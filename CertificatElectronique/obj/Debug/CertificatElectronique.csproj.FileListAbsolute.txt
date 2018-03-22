@@ -1,0 +1,9 @@
+C:\Users\Jonathan\source\repos\CertificatElectronique\CertificatElectronique\bin\Debug\CertificatElectronique.exe.config
+C:\Users\Jonathan\source\repos\CertificatElectronique\CertificatElectronique\bin\Debug\CertificatElectronique.exe
+C:\Users\Jonathan\source\repos\CertificatElectronique\CertificatElectronique\bin\Debug\CertificatElectronique.pdb
+C:\Users\Jonathan\source\repos\CertificatElectronique\CertificatElectronique\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jonathan\source\repos\CertificatElectronique\CertificatElectronique\obj\Debug\CertificatElectronique.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\source\repos\CertificatElectronique\CertificatElectronique\obj\Debug\CertificatElectronique.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\CertificatElectronique\CertificatElectronique\obj\Debug\CertificatElectronique.csproj.CopyComplete
+C:\Users\Jonathan\source\repos\CertificatElectronique\CertificatElectronique\obj\Debug\CertificatElectronique.exe
+C:\Users\Jonathan\source\repos\CertificatElectronique\CertificatElectronique\obj\Debug\CertificatElectronique.pdb
